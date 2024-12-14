@@ -117,12 +117,12 @@ p {
 }
 
 .bg1 {
-  background: url('../img/kerala.png');
+  background: url('img/kerala.png');
   color: aqua;
 }
 
 .bg2 {
-  background: url('../img/nainital.jpg');
+  background: url('img/nainital.jpg');
   color: black;
   font-weight: 1000;
 }
